@@ -1,0 +1,32 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(12, 16, 223);
+
+
+}
+.Amkette
+{
+    font-size: 23px;
+    color: rgb(94, 238, 11);
+    
+}
+.footer
+{
+    color: rgb(247, 241, 247);
+    background-color: rgb(15, 1, 1);
+    font-size: 15px;
+    width: 100%;
+    position: fixed;
+    line-height: 3;
+    bottom: 0;
+    text-align: center;
+}
+canvas
+{
+    border: 5px solid rgb(16, 230, 123);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(82, 31, 8);
+}
